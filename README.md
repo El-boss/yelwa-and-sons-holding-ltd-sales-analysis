@@ -19,7 +19,7 @@
 - **Data Modeling** - Relationships between Sales, Budget, Date tables
 - **Data Visualization** - Charts, KPIs, Slicers, Data Labels
 - **GitHub / Markdown** - Documentation with screenshots
- # QUENTION THE ANALYSIS THA ANSWERS #
+ # QUENTION THE ANALYSIS THAT ANSWERS #
  - **how many customers do the campany has for the targetion**
  - **how many revenue did the campany get for the 2025 year.**
  - **what profit that the campany get wit it registered customers.**
